@@ -1,10 +1,9 @@
 ---
-date: 2025-02-08 22:58:01
-created: 2025-02-08 11:15:50
-categories:
-- NT Research / NT Notes / Notes on Suicide
-- NT Research / NT Notes / Notes on Suicide / Heisman
-- Notebooklm
+date created: 2025-02-08 22:58:01
+folder:
+  - NT Research / NT Notes / Notes on Suicide
+  - NT Research / NT Notes / Notes on Suicide / Heisman
+  - Prompts / Notebooklm
 ---
 
 # NotebookLM Rational Suicide Notes

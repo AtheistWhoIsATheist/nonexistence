@@ -1,8 +1,7 @@
 ---
-date: 2024-10-05 14:16:20
-created: 2024-10-05 14:15:48
-categories:
-- NT Research / NT Notes / Notes on Suicide
+date created: 2024-10-05 14:16:20
+folder:
+  - NT Research / NT Notes / Notes on Suicide
 ---
 
 # Suicide Perplexity
